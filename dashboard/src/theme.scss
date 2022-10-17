@@ -26,34 +26,62 @@ body {
   margin: auto;
   align-items: center;
   justify-content: center;
+  background: linear-gradient(0deg, #1C99E6, white);
 }
 
 .title {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-
-    h1 {
-        text-transform: uppercase;
-        font-size: 4vw;
-        font-weight: bolder;
-    }
-
-    h2 {
-        text-transform: lowercase;
-        font-family: 'Satisfy';
-        font-size: 2vw;
-        color: $color-5;
-    }
+    height: 380px;
+    background-image: url('../assets/banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
-.container {
+.exploratoy {
+  display: flex;
+  flex-direction: column;
+  background-color: $color-3;
+
+  .tweet-container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    border-radius: 1vw;
+    padding: 1vw;
+    width: fit-content;
+    margin: 1vw auto;
+
+    p {
+      ul {
+        margin-left: 3vw;
+      }
+    }
+
+    hr {
+      width: 100%;
+      height: 0.5px;
+      background: rgb(189, 189, 189);
+      margin: 5px 0;
+    }
+
+    button {
+      color: white;
+      padding: 1vw 2vw;
+      border-radius: 1vw;
+      background-color: $color-3;
+      font-weight: bold;
+      opacity: 0.5;
+      margin: 0 1vw 0 auto;
+    }
+  }
+
+  .container {
     width: 100%;
     display: flex;
-    margin: 1vw;
     justify-content: center;
     align-items: center;
+    margin: 1vw 0;
 
     .left-container {
         display: grid;
@@ -62,8 +90,9 @@ body {
         grid-template-columns: repeat(2, 1fr);
     
         button {
-        padding: 1vw;
-        border: 3px solid $color-4;
+          padding: 1vw;
+          border: 3px solid $color-4;
+          background: white;
         }
     }
 
@@ -75,4 +104,5 @@ body {
         width: 50%;
         margin-left: 1vw;
     }
+  }
 }
