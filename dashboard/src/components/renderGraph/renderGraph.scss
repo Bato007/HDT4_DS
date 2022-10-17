@@ -1,0 +1,15 @@
+@import "/src/colors.scss";
+
+
+.blue-graph, .skyblue-graph {
+    flex: 1;
+    height: 20vw;
+}
+
+.blue-graph {
+    background-color: $color-1;
+}
+
+.skyblue-graph {
+    background-color: $color-3;
+}
