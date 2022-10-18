@@ -1,0 +1,102 @@
+{
+    "accident": [
+        {
+            "text": "unknow",
+            "value": 1331
+        },
+        {
+            "text": "usa",
+            "value": 855
+        },
+        {
+            "text": "uk",
+            "value": 108
+        },
+        {
+            "text": "canada",
+            "value": 83
+        },
+        {
+            "text": "india",
+            "value": 64
+        },
+        {
+            "text": "nigeria",
+            "value": 50
+        },
+        {
+            "text": "japan",
+            "value": 9
+        },
+        {
+            "text": "indonesia",
+            "value": 8
+        },
+        {
+            "text": "italy",
+            "value": 7
+        },
+        {
+            "text": "china",
+            "value": 7
+        },
+        {
+            "text": "ireland",
+            "value": 6
+        }
+    ],
+    "nonAccident": [
+        {
+            "text": "unknow",
+            "value": 1841
+        },
+        {
+            "text": "usa",
+            "value": 1075
+        },
+        {
+            "text": "uk",
+            "value": 187
+        },
+        {
+            "text": "canada",
+            "value": 78
+        },
+        {
+            "text": "india",
+            "value": 31
+        },
+        {
+            "text": "nigeria",
+            "value": 19
+        },
+        {
+            "text": "kenya",
+            "value": 16
+        },
+        {
+            "text": "japan",
+            "value": 13
+        },
+        {
+            "text": "china",
+            "value": 9
+        },
+        {
+            "text": "switzerland",
+            "value": 7
+        },
+        {
+            "text": "ireland",
+            "value": 6
+        },
+        {
+            "text": "indonesia",
+            "value": 5
+        },
+        {
+            "text": "coventry",
+            "value": 5
+        }
+    ]
+}

@@ -1,0 +1,357 @@
+target,label,value
+0,body bag,100
+0,scream,94
+0,drown,77
+1,flood,66
+0,wreck,66
+0,blaze,66
+0,panic,65
+1,suicide bomb,64
+0,sink,63
+1,bomb,61
+0,crush,60
+0,explode,59
+0,siren,57
+1,evacuate,57
+0,deluge,56
+0,obliterate,54
+0,quarantine,52
+0,destroy,52
+0,electrocute,52
+0,injury,51
+0,survive,50
+0,demolish,50
+0,burn,50
+0,collide,48
+0,weapon,47
+0,fatality,46
+1,attack,46
+1,casualty,43
+1,derail,43
+0,flood,43
+1,forest fire,42
+1,hostage,42
+1,nan,42
+0,collapse,41
+0,riot,40
+0,bomb,40
+0,death,39
+1,outbreak,39
+1,wreckage,39
+1,derailment,39
+1,debri,37
+0,armageddon,37
+1,oil spill,37
+1,typhoon,37
+0,harm,37
+1,fatality,36
+0,ruin,36
+0,fear,35
+0,rescue,35
+0,twister,35
+1,death,35
+0,crash,34
+0,hijack,34
+0,aftershock,34
+0,traumatise,33
+0,blizzard,33
+1,crash,33
+0,upheaval,32
+0,bloody,32
+1,rescuer,32
+0,curfew,32
+0,hellfire,32
+0,smoke,31
+1,raze,31
+0,blew up,31
+1,weapon,31
+1,nuclear disaster,31
+1,hijack,31
+0,stretcher,30
+0,derail,30
+0,bleed,30
+0,blood,30
+1,suicide bomber,30
+1,airplane accident,30
+0,blight,30
+1,earthquake,30
+0,inundate,29
+0,army,29
+0,flatten,29
+1,wildfire,29
+1,collision,29
+1,bridge collapse,29
+1,riot,29
+0,catastrophe,29
+0,desolation,29
+0,lava,29
+0,pandemonium,29
+1,drought,28
+0,blown up,28
+1,collapse,28
+1,sandstorm,28
+0,trouble,28
+0,danger,28
+1,evacuation,28
+1,buildings on fire,28
+0,cliff fall,28
+0,destruction,28
+0,meltdown,28
+1,mass murder,28
+0,loud bang,27
+0,mayhem,27
+0,hazard,27
+0,fire,27
+1,devastation,27
+1,sinkhole,27
+1,drown,27
+1,wild fire,27
+1,violent storm,26
+0,casualty,26
+0,flame,26
+0,avalanche,26
+0,detonate,26
+0,demolition,26
+0,arsonist,26
+0,military,26
+0,thunder,26
+0,hostage,26
+1,famine,26
+1,collide,26
+1,fatal,26
+1,thunderstorm,26
+1,displace,26
+1,wound,26
+1,massacre,25
+1,heat wave,25
+0,attack,25
+0,obliteration,25
+0,mudslide,25
+0,whirlwind,25
+1,terrorism,24
+1,accident,24
+0,windstorm,24
+1,buildings burn,24
+1,hailstorm,24
+1,dust storm,24
+1,injure,24
+0,ablaze,23
+0,apocalypse,23
+1,terrorist,23
+0,detonation,23
+0,wind,23
+0,tsunami,23
+0,trap,23
+0,dead,23
+0,annihilate,23
+0,emergency,23
+1,structural failure,23
+1,arson,22
+0,nuclear reactor,22
+0,desolate,22
+0,damage,22
+0,emergency service,22
+1,fire truck,22
+1,tragedy,22
+1,hazardou,22
+1,refugee,22
+1,rescue,22
+1,bioterror,22
+1,bioterrorism,21
+0,battle,21
+1,burning build,21
+1,emergency plan,21
+1,survivor,21
+1,polouse,21
+1,injury,20
+1,catastrophic,20
+1,explosion,20
+1,ambulance,20
+0,disaster,20
+0,eyewitne,20
+0,trauma,20
+1,hurricane,20
+0,evacuate,19
+0,nan,19
+0,tornado,19
+0,explosion,19
+1,cyclone,19
+0,annihilation,19
+1,damage,19
+1,quarantine,19
+1,mass murderer,19
+1,engulf,19
+1,hijacker,19
+0,landslide,19
+0,hurricane,18
+0,rubble,18
+0,ambulance,18
+1,volcano,18
+1,storm,18
+1,rainstorm,18
+1,bush fire,18
+1,natural disaster,18
+1,devastate,18
+1,hail,18
+0,chemical emergency,18
+0,engulf,17
+1,destroy,17
+0,hail,17
+1,burn,17
+1,lightn,17
+0,first responder,17
+1,sink,17
+0,war zone,17
+0,storm,17
+0,polouse,16
+0,snowstorm,16
+0,lightn,16
+1,windstorm,16
+1,tornado,16
+0,rainstorm,16
+0,seismic,16
+0,burning build,16
+0,natural disaster,16
+0,hijacker,16
+1,disaster,15
+1,chemical emergency,15
+1,survive,15
+0,bioterror,15
+0,refugee,14
+0,tragedy,14
+0,emergency plan,14
+1,electrocute,14
+1,nuclear reactor,14
+1,landslide,14
+1,emergency,14
+1,whirlwind,14
+1,flame,13
+1,ablaze,13
+1,seismic,13
+1,snowstorm,13
+1,deluge,13
+0,mass murderer,13
+0,devastate,13
+0,cyclone,13
+0,hazardou,13
+0,famine,13
+1,thunder,12
+0,structural failure,12
+0,dust storm,12
+0,sinkhole,12
+1,siren,12
+1,explode,12
+1,eyewitne,12
+1,demolish,12
+1,mudslide,12
+1,first responder,12
+0,fatal,12
+0,fire truck,11
+1,fire,11
+1,scream,11
+1,emergency service,11
+1,trauma,11
+1,annihilate,11
+0,massacre,11
+0,wound,11
+0,buildings burn,11
+0,injure,11
+0,accident,11
+0,epicentre,11
+1,tsunami,11
+1,wind,10
+1,rubble,10
+1,wreck,10
+1,detonate,10
+0,terrorism,10
+0,catastrophic,10
+0,collision,10
+0,displace,10
+0,arson,10
+1,annihilation,10
+0,heat wave,9
+1,apocalypse,9
+1,trap,9
+1,detonation,9
+1,demolition,9
+0,devastation,9
+0,forest fire,9
+0,volcano,9
+0,threat,9
+0,survivor,9
+0,bioterrorism,9
+0,sandstorm,9
+0,earthquake,9
+1,obliterate,8
+1,pandemonium,8
+1,military,8
+1,cliff fall,8
+1,arsonist,8
+1,danger,8
+1,crush,8
+0,inundation,8
+0,evacuation,8
+0,terrorist,8
+0,hailstorm,8
+1,hazard,7
+1,dead,7
+1,body bag,7
+1,loud bang,7
+1,desolation,7
+1,catastrophe,7
+1,war zone,7
+1,hellfire,7
+0,drought,7
+0,violent storm,7
+0,bush fire,7
+0,thunderstorm,7
+1,desolate,7
+1,blaze,6
+1,inundate,6
+1,destruction,6
+1,upheaval,6
+0,bridge collapse,6
+1,bleed,5
+1,battle,5
+1,flatten,5
+1,meltdown,5
+1,blown up,5
+1,twister,5
+1,curfew,5
+1,trouble,5
+1,army,5
+1,panic,5
+1,armageddon,5
+1,blood,5
+1,lava,5
+1,fear,5
+1,radiation emergency,5
+0,mass murder,5
+0,buildings on fire,5
+0,airplane accident,5
+1,blizzard,4
+1,avalanche,4
+1,harm,4
+1,obliteration,4
+0,wildfire,4
+0,suicide bomb,4
+0,wild fire,4
+0,radiation emergency,4
+0,raze,4
+0,rescuer,3
+0,nuclear disaster,3
+1,smoke,3
+1,stretcher,3
+1,bloody,3
+1,mayhem,3
+1,blew up,2
+1,traumatise,2
+1,blight,2
+1,threat,2
+1,inundation,2
+0,suicide bomber,1
+0,outbreak,1
+0,oil spill,1
+0,typhoon,1
+1,ruin,1
+1,epicentre,1

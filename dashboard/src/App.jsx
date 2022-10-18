@@ -4,7 +4,6 @@ import RenderGraph from './components/renderGraph/RenderGraph'
 
 import bar from '../assets/bar.png'
 import cloud from '../assets/cloud.png'
-import world from '../assets/world.png'
 import pie from '../assets/pie.png'
 
 import './theme.scss'
@@ -43,9 +42,6 @@ const App = () => {
             </button>
             <button type="button" onClick={() => setActualGraph(3)}>
               <img src={pie} alt="pie" />
-            </button>
-            <button type="button" onClick={() => setActualGraph(4)}>
-              <img src={world} alt="world" />
             </button>
           </div>
           <div className="right-container">

@@ -1,0 +1,13 @@
+.plot-container {
+  position: relative;
+}
+
+.dropbox-container {
+  position: absolute;
+  left: 1vw;
+  top: 1vw;
+  z-index: 100;
+  select {
+    margin-right: 1vw;
+  }
+}
