@@ -34,6 +34,10 @@ const BarPlot = () => {
             y: data.value.slice(0, amount),
           },
         ]}
+        layout={{
+          title: `Most repeated words in ${option} tweets`,
+          font: { size: 12 },
+        }}
       />
     </div>
   )

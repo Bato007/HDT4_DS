@@ -37,6 +37,10 @@ const PiePlot = () => {
             },
           },
         ]}
+        layout={{
+          title: `Most repeated keywords in ${option} tweets`,
+          font: { size: 12 },
+        }}
       />
     </div>
   )

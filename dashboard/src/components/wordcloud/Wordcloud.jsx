@@ -43,6 +43,7 @@ const Wordcloud = () => {
               fontSizes: [60, 70],
             }}
           />
+          <h3>Tweets country of origin</h3>
         </div>
       </Resizable>
     </div>
